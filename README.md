@@ -1,0 +1,1 @@
+This project is based on the Odin Foundation exercise called Etch-A-Sketch.
