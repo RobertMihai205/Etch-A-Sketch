@@ -1,0 +1,17 @@
+.container {
+    flex:1;
+   
+
+}
+
+.content {
+    display:inline-flex;
+    flex-direction:row;
+    justify-content: center;
+    border: 20px;
+    margin: 2px;
+    padding:1px;
+    grid-template-columns: 1fr 1fr;
+
+
+}
